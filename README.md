@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://bgabrielius.github.io/hangman-game]
+- Live Site URL: [https://hangman-game-two-blond.vercel.app/]
 
 ### Built with
 
